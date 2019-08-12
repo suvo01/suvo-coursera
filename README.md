@@ -1,2 +1,0 @@
-# suvo-coursera
-Test repository
